@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JoKemPo</string>
+    <string name="image_view_player1">player1</string>
+    <string name="image_view_player2">player2</string>
+    <string name="image_view_vs">vs</string>
+    <string name="image_button_stone">stone</string>
+    <string name="image_button_paper">paper</string>
+    <string name="image_button_scissors">scissors</string>
+    <string name="text_view_message">message</string>
+    <string name="scoreboard" translatable="false">0</string>
+</resources>
